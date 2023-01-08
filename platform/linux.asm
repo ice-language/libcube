@@ -1,0 +1,1 @@
+%include "platform/linux/print_temp.asm"
